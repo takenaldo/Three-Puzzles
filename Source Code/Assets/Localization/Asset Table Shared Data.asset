@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Asset Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Asset Table
+  m_TableCollectionNameGuidString: d86bf0ada77e62345b7ff2ed464f2d39
+  m_Entries:
+  - m_Id: 15815481384960
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16276036935680
+    m_Key: info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29699084804096
+    m_Key: time left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30310983426048
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32308092887040
+    m_Key: lvlsss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437602177024
+    m_Key: level completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34685516668928
+    m_Key: time up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35341891690496
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35365178466304
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536482230272
+    m_Key: kgkjhefk.gbvn
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 3422637311455658597
+  m_KeyGenerator:
+    rid: 3422637311455658568
+  references:
+    version: 2
+    RefIds:
+    - rid: 3422637311455658568
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690196486356
+    - rid: 3422637311455658597
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 15815481384960
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 16276036935680
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 29699084804096
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 32308092887040
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 33437602177024
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 34685516668928
+          m_TableCodes:
+          - en
+          - ru
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

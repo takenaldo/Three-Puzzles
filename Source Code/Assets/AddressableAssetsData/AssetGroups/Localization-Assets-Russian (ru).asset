@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 665a0d9da2e8dc04d8b60af35796bdf5
+  m_SerializeEntries:
+  - m_GUID: a0be8ebcd4ed6a447b28c5e773235807
+    m_Address: "INSTALA\xC7\xD5ES"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a02dba519aa0dd1439788529f48b1fd8
+    m_Address: gems brazil
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: d58fceefeb1a26f478a9c034884843e7
+    m_Address: tempo restante_ 0_22
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a9bbaec7bdd72644aaa84d4847295358
+    m_Address: "N\xEDveis"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: e9e6b53e802afa6478b3a1efa8a12c4e
+    m_Address: "N\xCDVEL COMPLETO"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: e250eec6685a0c248b41f235cad469da
+    m_Address: "O TEMPO \xC9 GLOBAL"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c302d9e4275eb144a9bb9a691de75eec, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d95b33b35c0d8ea44b16bf36d019efb6, type: 2}
+    - {fileID: 11400000, guid: 08af4330cc06d8847a9ab257d415b786, type: 2}
